@@ -12,10 +12,11 @@ I'm a developer who loves cooking (I've been a professional chef for over a deca
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,bash,postgresql)](https://skillicons.dev)
-
+<!--
 ![](https://github-readme-stats.vercel.app/api?username=AdnilsonPinheiro&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=AdnilsonPinheiro&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdnilsonPinheiro&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+-->
 
 ## 🌱 Currently Exploring
 
