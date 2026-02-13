@@ -4,7 +4,7 @@ I'm a developer who loves cooking (I've been a professional chef for over a deca
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on a coffee shop database (because who doesn't like coffee, am I right)
+- 🔭 Writing some code in C++ right now
 - 🌱 I’m currently learning PostgreSQL
 - 💬 Ask me about processes in Linux
 - 👯 I’m looking to collaborate on some small DevOps project (just hit me!)
@@ -20,7 +20,7 @@ I'm a developer who loves cooking (I've been a professional chef for over a deca
 
 ## 🌱 Currently Exploring
 
-- 🚀 Learning how to bridge the gap between Application Development and Data Ops by mastering PostgreSQL performance tuning and secure access patterns.
+- I’m currently working on a coffee shop database (because who doesn't like coffee, am I right)
 
  ## 🏆 Achievements
 
